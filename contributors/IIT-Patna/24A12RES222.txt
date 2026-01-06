@@ -1,0 +1,9 @@
+Name: Deepali Kumari
+College: IIT Patna
+Enrollment Number: 24A12RES222
+
+About Me:
+I am interested in open source and web development.
+
+Favorite Film:
+Interstellar
