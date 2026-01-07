@@ -88,5 +88,3 @@ getTimestamp() // returns the current timestamp as a string in the format of "02
   - Added call to getPassword() after username prompt.
   - Passed password to connectToEchoServer().
 - Tested locally: Verified password prompt appears and chat messages display cleanly.
-
-- Add `.env.example` for local environment configuration
